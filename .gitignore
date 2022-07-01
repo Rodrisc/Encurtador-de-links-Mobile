@@ -62,3 +62,8 @@ dist/
 /ios
 .buckconfig
 .gitattributes
+app.json
+babel.config.js
+metro.config.js
+package-lock.json
+package.json
